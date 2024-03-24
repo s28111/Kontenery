@@ -1,0 +1,6 @@
+C:\Users\User\Kontenery\ObslugaKontenerow\bin\Debug\ObslugaKontenerow.exe
+C:\Users\User\Kontenery\ObslugaKontenerow\bin\Debug\ObslugaKontenerow.pdb
+C:\Users\User\Kontenery\ObslugaKontenerow\obj\Debug\ObslugaKontenerow.csproj.AssemblyReference.cache
+C:\Users\User\Kontenery\ObslugaKontenerow\obj\Debug\ObslugaKontenerow.csproj.CoreCompileInputs.cache
+C:\Users\User\Kontenery\ObslugaKontenerow\obj\Debug\ObslugaKontenerow.exe
+C:\Users\User\Kontenery\ObslugaKontenerow\obj\Debug\ObslugaKontenerow.pdb
